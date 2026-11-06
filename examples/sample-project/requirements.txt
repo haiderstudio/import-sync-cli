@@ -1,0 +1,6 @@
+# What the sample app needs.
+requests==2.31.0
+flask>=2.0
+Pillow
+numpy
+boto3
